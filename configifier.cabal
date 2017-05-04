@@ -42,7 +42,7 @@ library
     , mtl >=2.1 && <2.3
     , safe >=0.3 && <0.4
     , string-conversions >=0.3 && <0.5
-    , template-haskell >=2.10 && <2.11
+    , template-haskell >=2.10 && <2.12
     , unordered-containers >=0.2 && <0.3
     , vector >=0.10 && <0.12
     , yaml >=0.8 && <0.9
